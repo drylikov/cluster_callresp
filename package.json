@@ -1,0 +1,17 @@
+{
+  "author": "",
+  "name": "cluster-callresp",
+  "description": "A call-and-response message passing system for node's cluster builtin",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "callresp.js",
+  "engines": {
+    "node": ">=0.7.6"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  }
+}
